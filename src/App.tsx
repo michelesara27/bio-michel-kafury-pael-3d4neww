@@ -10,7 +10,7 @@ type LinkItem = {
 const links: LinkItem[] = [
   {
     title: "Desenvolvimento",
-    url: "https://imgur.com/AqfnWZx",
+    url: "kafurypael.pages.dev",
     image: "https://i.imgur.com/AqfnWZx.png",
     border: "#FF2A2A",
   },
