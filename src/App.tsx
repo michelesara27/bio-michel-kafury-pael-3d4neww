@@ -49,7 +49,7 @@ export default function App() {
 
       {/* Conteúdo centralizado */}
       <div className="mx-auto flex min-h-screen w-full max-w-[400px] flex-col items-center px-4 py-10">
-        <h1 className="text-center font-mono text-4xl font-black tracking-tight text-foreground drop-shadow-lg">
+        <h1 className="text-center font-['JetBrains_Mono'] text-4xl font-black tracking-tight text-foreground drop-shadow-lg">
           BIO DO KAFURY
         </h1>
 
